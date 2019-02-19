@@ -1,6 +1,4 @@
 {
-  "name": "react-prosemirror",
-  "version": "0.21.0",
   "private": true,
   "license": "MIT",
   "devDependencies": {
