@@ -1,7 +1,8 @@
 {
+  "name": "react-prosemirror",
+  "version": "0.21.0",
   "private": true,
   "license": "MIT",
-  "version": "0.21.0",
   "devDependencies": {
     "babel-eslint": "^8.2.1",
     "lerna": "^2.8.0",
